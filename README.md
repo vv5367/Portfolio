@@ -1,6 +1,6 @@
 # Portfolio Project
 
-This project showcases my personal portfolio website built using HTML, CSS, and JavaScript. The portfolio highlights my skills, projects, and provides an overview of my background and accomplishments.
+This project showcases my personal portfolio website built using HTML and CSS. The portfolio highlights my skills, projects, and provides an overview of my background and accomplishments.
 
 ## Features
 
